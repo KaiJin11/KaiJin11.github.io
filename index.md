@@ -1,5 +1,5 @@
 ---
-layout: Kai Jin 
+layout: default
 ---
 
 # [](#header-1) About Me  
