@@ -2,7 +2,10 @@
 layout: default
 ---
 
-My name is JIn kai 
+My name is Kai Jin and I am currently a graduate student in the Master of Statistics Science Program at the University of California, Davis. 
+Im currently working for UC Davis Center for Water-Energy as a Data Scientist Intern in charge of aligning, integrating, visualizing and analyzing California water, energy, and environmental data sets. I have previously worked as the Research Analyst with Professors at the Pennsylvania State University for a research on modeling ant movement in charge of collecting and analyzing date regarding ant movement and interactions to prevent the spread of infectious diseases. Through those jobs, I have gained more knowledge on translating complex mathematical concepts and presenting ideas in a systemic and efficient way. I am interested in pursuing a data scientist or a statistical analysis position. 
+I am proficient with R, Python, Sql, Excel. I also have previous experience using Minitab, SAS, C++, ploty, R Shiny.  
+
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -12,8 +15,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # [](#header-1)Header 1
+
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
