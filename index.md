@@ -4,7 +4,7 @@ layout: default
 
 # [](#header-1) About Me  
 
-<img src="https://github.com/KaiJin11/KaiJin11.github.io/blob/master/headshot.jpeg" width="200">
+<img src="https://github.com/KaiJin11/KaiJin11.github.io/blob/master/headshot.jpeg"width="200">
 
 My name is Kai Jin and I am currently a graduate student in the Master of Statistics 
 Science Program at the **University of California, Davis**. Im currently working for UC
@@ -22,15 +22,8 @@ I am proficient with R, Python, Sql, Excel. I also have previous experience usin
 SAS, C++, ploty, R Shiny.  
 
 
-https://github.com/KaiJin11/KaiJin11.github.io/blob/master/Area%252C%20Value%252C%20And%20Precipitation%20Trends.html
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](another-page).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 # [](#header-1)Projects
 
 ## [](#header-2)Crops Water Usage at San Joaquin Valley 
