@@ -59,7 +59,7 @@ According the water appropriateness levels we got for each Sub-basin, we were ab
 ## [](#header-2)Predictiong House Sparrow Survival rate by Physical Characteristics 
 
 
-[Papaer link](sta-207-final project.pdf).
+[Papaer link](sta-207-final%20project.pdf).
 
 
 
