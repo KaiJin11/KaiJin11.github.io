@@ -21,6 +21,7 @@ way. I am interested in pursuing a data scientist or a statistical analysis posi
 I am proficient with R, Python, Sql, Excel. I also have previous experience using Minitab, 
 SAS, C++, ploty, R Shiny.  
 
+[graph for Area Precipitation Trends](Area%252C%20Value%252C%20And%20Precipitation%20Trends.html).
 
 https://github.com/KaiJin11/KaiJin11.github.io/blob/master/Area%252C%20Value%252C%20And%20Precipitation%20Trends.html
 
