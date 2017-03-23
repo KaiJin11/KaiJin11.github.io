@@ -20,7 +20,7 @@ I am proficient with R, Python, Sql, Excel. I also have previous experience usin
 SAS, C++, ploty, R Shiny.  
 
 
-![](https://github.com/KaiJin11/KaiJin11.github.io/blob/master/headshot.jpeg=100x)
+![](https://github.com/KaiJin11/KaiJin11.github.io/blob/master/headshot.jpeg =100x)
 <img src="https://github.com/KaiJin11/KaiJin11.github.io/blob/master/headshot.jpeg" width="48">
 ![100](https://github.com/KaiJin11/KaiJin11.github.io/blob/master/headshot.jpeg )
 Text can be **bold**, _italic_, or ~~strikethrough~~.
