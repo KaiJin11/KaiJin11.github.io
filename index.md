@@ -20,6 +20,8 @@ I am proficient with R, Python, Sql, Excel. I also have previous experience usin
 SAS, C++, ploty, R Shiny.  
 
 
+![](https://github.com/KaiJin11/KaiJin11.github.io/blob/master/headshot.jpeg | width=100 )
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
