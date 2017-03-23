@@ -23,7 +23,7 @@ SAS, C++, ploty, R Shiny.
 
 ![](https://github.com/KaiJin11/KaiJin11.github.io/blob/master/headshot.jpeg)
 
-<img src="https://github.com/KaiJin11/KaiJin11.github.io/blob/master/headshot.jpeg" width="100">
+<img src="https://github.com/KaiJin11/KaiJin11.github.io/blob/master/headshot.jpeg" width="200">
 
 ![100](https://github.com/KaiJin11/KaiJin11.github.io/blob/master/headshot.jpeg )
 
