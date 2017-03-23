@@ -19,10 +19,14 @@ way. I am interested in pursuing a data scientist or a statistical analysis posi
 I am proficient with R, Python, Sql, Excel. I also have previous experience using Minitab, 
 SAS, C++, ploty, R Shiny.  
 
+### Small image
 
 ![](https://github.com/KaiJin11/KaiJin11.github.io/blob/master/headshot.jpeg)
+
 <img src="https://github.com/KaiJin11/KaiJin11.github.io/blob/master/headshot.jpeg" width="100">
+
 ![100](https://github.com/KaiJin11/KaiJin11.github.io/blob/master/headshot.jpeg )
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
@@ -116,7 +120,7 @@ end
 
 ### Small image
 
-![](https://github.com/KaiJin11/KaiJin11.github.io/blob/master/headshot.jpeg =250x250)
+![](https://github.com/KaiJin11/KaiJin11.github.io/blob/master/headshot.jpeg)
 
 ### Large image
 
