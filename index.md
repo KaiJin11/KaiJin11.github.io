@@ -113,7 +113,7 @@ end
 
 ### Small image
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![](https://kaijin11.github.io/headshot.jpeg)
 
 ### Large image
 
