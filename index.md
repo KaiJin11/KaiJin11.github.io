@@ -113,7 +113,7 @@ end
 
 ### Small image
 
-![](https://github.com/KaiJin11/KaiJin11.github.io/blob/master/headshot.jpeg)
+![](https://github.com/KaiJin11/KaiJin11.github.io/blob/master/headshot.jpeg =250x250)
 
 ### Large image
 
